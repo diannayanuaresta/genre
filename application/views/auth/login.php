@@ -25,7 +25,7 @@
                       <input type="password" name="password" id="password"  placeholder="Password..">
                     </fieldset>
                   </div>
-                  <button class="btn btn-info">Registrasi</button>
+                  <button class="btn btn-info">Login</button>
                   <a href="<?= base_url('auth/forgotPassword')?>">Lupa Password ?</a>
                 </div>
               </div>
